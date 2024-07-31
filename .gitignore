@@ -1,0 +1,12 @@
+.DS_Store
+Thumbs.db
+
+/build
+/dist
+
+*.tmp
+*.log
+*.zone.identifier
+
+node_modules/
+venv/
